@@ -1,0 +1,14 @@
+{
+    "MONGO_CONFIG": {
+        "url": "mongodb+srv://datta:datta@cluster0.9ek0btm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "ATS_check",  
+        "collection_name": "verification"  ,
+    
+    "Resume":{
+        "collection_name":"resume_data"
+    },
+    "match":{
+        "collection_name":"matching_data"
+    }
+}
+}
